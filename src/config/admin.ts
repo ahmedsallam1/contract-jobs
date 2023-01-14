@@ -1,0 +1,1 @@
+export const MOST_PAID_CLIENTS_LIMIT = 2;
